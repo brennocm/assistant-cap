@@ -6,9 +6,8 @@
         <img src="./assets/images/github/cap-assistant.png" alt="CAP Image" width="880px">    
         <br>
   </div>
- <br>
-Questions by topic:
- <br><br>
+
+### Questions by topic:
 
 - Server-Side Request Forgery (SSRF): 2 questions
 - Insecure Direct Object Reference (IDOR): 3 questions
@@ -37,7 +36,7 @@ Questions by topic:
 
 <br>
 
-Link: [http://cap-assistant.ct.ws](http://cap-assistant.ct.ws)
+Link: [https://cap-assistant.ct.ws](https://cap-assistant.ct.ws)
 
 
 
