@@ -36,7 +36,21 @@
 
 <br>
 
-Link: [https://cap-assistant.ct.ws](https://cap-assistant.ct.ws)
+## Run locally
+
+The site is plain PHP with no database. With PHP 8 installed:
+
+```bash
+git clone https://github.com/brennocm/assistant-cap.git
+cd assistant-cap
+php -S localhost:8000
+```
+
+Then open `http://localhost:8000`. Use `localhost` (not an IP): the session cookie is marked `Secure`, and browsers only accept that over plain HTTP on `localhost`.
+
+## License
+
+[MIT](LICENSE)
 
 
 
